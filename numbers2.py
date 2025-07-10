@@ -1,4 +1,6 @@
 
+#Test-file for GitHub
+
 while True:
 
     number = int(input("Enter a number (0 to quit): "))
